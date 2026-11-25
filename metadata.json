@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Wobblepeak",
+  "description": "A sunlit 3D physics-based puzzle adventure set atop a pastel mountain observatory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
